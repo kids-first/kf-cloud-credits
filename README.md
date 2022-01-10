@@ -23,3 +23,7 @@
 
 <br/><br/>
 <br/><br/>
+
+About the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD): NICHD leads research and training to understand human development, improve reproductive health, enhance the lives of children and adolescents, and optimize abilities for all. For more information, visit https://www.nichd.nih.gov.
+
+About the National Institutes of Health (NIH): NIH, the nation's medical research agency, includes 27 Institutes and Centers and is a component of the U.S. Department of Health and Human Services. NIH is the primary federal agency conducting and supporting basic, clinical, and translational medical research, and is investigating the causes, treatments, and cures for both common and rare diseases. For more information about NIH and its programs, visit https://www.nih.gov.
