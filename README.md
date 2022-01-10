@@ -1,18 +1,14 @@
-<p>
-</p>
-<br/><br/>
-
-# Kids First Cloud Credits
+# Kids First Cloud Credits Program
 
 <br/><br/>
 <img src="https://github.com/kids-first/kf-cloud-credits/blob/main/assets/kfdrc-logo-sm.png"  width="500" >
 <br/><br/>
 
-## Welcome to Kids First
+## Contents
 
 | Topic    | Description and Link       |
 | ------------- | --------------------------------------------------------------------------- |
-| Introduction | [Video Overview of Kids First Portal and CAVATICA Platform - ASHG 2021](https://www.youtube.com/watch?v=uQ0soZQpYCU) |
+| Introduction | [Introduction to Kids First datasets and platforms](introduction.md) |
 | Exploring Datasets | [Exploring datasets through the Kids First Portal](ExploringDatasets.md) |
 | Estimating Cloud Costs | [Choosing workflows, estimating analyses] () |
 | Applying for Cloud Credits | [With estimated workflows, sample count and analysis plan - apply for cloud credits] () |
