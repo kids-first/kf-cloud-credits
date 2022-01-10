@@ -13,7 +13,7 @@
 | Topic    | Description and Link       |
 | ------------- | --------------------------------------------------------------------------- |
 | Introduction | [Video Overview of Kids First Portal and CAVATICA Platform - ASHG 2021](https://www.youtube.com/watch?v=uQ0soZQpYCU) |
-| Exploring Datasets | [Exploring datasets through the Kids First Portal](ExploringDatasets.md)) |
+| Exploring Datasets | [Exploring datasets through the Kids First Portal](ExploringDatasets.md) |
 | Estimating Cloud Costs | [Choosing workflows, estimating analyses] () |
 | Applying for Cloud Credits | [With estimated workflows, sample count and analysis plan - apply for cloud credits] () |
 | Managing costs throughout project | [Staying within budget, keeping a clean environment to control costs] () |
