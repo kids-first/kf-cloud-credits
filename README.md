@@ -6,19 +6,16 @@
 
 ## Contents
 
-| Topic    | Description and Link       |
-| ------------- | --------------------------------------------------------------------------- |
-| Introduction | [Introduction to Kids First datasets and platforms](introduction.md) |
-| Exploring Datasets | [Exploring datasets through the Kids First Portal](ExploringDatasets.md) |
+| Topic and Link    | Description |
+| :------------- | :--------------------------------------------------------------------------- |
+| [Introduction to Kids First and the Kids First Data Resource Center](introduction.md) | <ul><li>Overview of the KF Program</li><li>Kids First DRC Harmonized Datasets</li><li>Presentation at ASHG 2021</li></ul>
+| [Exploring Datasets](ExploringDatasets.md) | <ul><li>Logging into the Kids First Data Resource Portal</li><li>Exploring Data on the Kids First Portal</li><li>Exploring Studies on the Kids First Portal</li><li>Studies and Access</li><li>Open- and Controlled-Access Datasets</li></ul> |
 | Estimating Cloud Costs | [Choosing workflows, estimating analyses] () |
 | Applying for Cloud Credits | [With estimated workflows, sample count and analysis plan - apply for cloud credits] () |
 | Managing costs throughout project | [Staying within budget, keeping a clean environment to control costs] () |
 | Workflows - Existing, repurposing and New | [Using an App, Bringing your own, Repurposing and documenting experiments] ()|
 | Analyses - Literate Programming with Jupyter Notebooks | [GitHub for documentation, capturing and recreating]() |
 | Project closeout | [Wrapping things up, writing your paper, reproducibility and Github] () |
-
-<br/><br/>
-<br/><br/>
 
 About the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD): NICHD leads research and training to understand human development, improve reproductive health, enhance the lives of children and adolescents, and optimize abilities for all. For more information, visit https://www.nichd.nih.gov.
 
