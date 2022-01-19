@@ -2,15 +2,14 @@
 ## Managing Cloud Computing Costs
 _Note: While there are multiple cloud-based computing service providers, the Seven Bridges CAVATICA environment is built upon [Amazon Web Services (AWS)](https://aws.amazon.com/). The content of this page is specific to AWS and CAVATICA, most relevant to research on Kids First data._
 
-
 ### Principles of Cloud Computing Costs
 High performance computing necessary for genome-scale analysis requires advanced computer infrastructure. By networking together a collection of servers and storage devices, researchers can utilize these machines to carry out the large scale calculations and computations required for genome alignment and variant calling. High performance computing incurs large upfront costs associated with purchasing equipment as well as ongoing costs associated with staff to maintain this environment and electricity to keep everything running.
 
 Cloud-based computing allows access to this same infrastructure without owning and managing the machines themselves. Rather than purchase the computers themselves, users of cloud computing pay to work in this environment on an amount relative to their usage. Dozens of machines can be activated rapidly when an analysis is beginning - and then shut off just as quickly once the work is complete and they are no longer needed.
 
 ---
-### Storage and Analysis
-Users of cloud computing broadly pay for two categories of usage: ___storage___ and ___analysis___.
+### Storage and Compute
+Users of cloud computing broadly pay for two categories of usage: ___storage___ and ___compute___.
 
 ___Storage___ refers to keeping files stored in the cloud, analogous to storing files on the hard drive on your computer.
 
@@ -20,14 +19,27 @@ All other files in CAVATICA projects incur storage costs. These include files th
 
 Storing files in the cloud is billed on the size of the files and the length of time they are stored. Prices fluctuate, but are generally around 2 cents per gigabyte per month. The most current rate is availabe in [AWS's documentation, linked here](https://aws.amazon.com/s3/pricing/).
 
-___Analysis___ refers to using workflows to run computation on files. Within the CAVATICA environment, this could be running a Task of an App in order to process genome files to call variants. It could also refer to using the Interactive Analysis, such as the Data Cruncher to run R scripts and generate graphical output. 
+___Compute___ refers to using workflows to run computation on files. Within the CAVATICA environment, this could be running a Task of an App in order to process genome files to call variants. It could also refer to using the Interactive Analysis, such as the Data Cruncher to run R scripts and generate graphical output. 
 
-Analysis in the cloud is billed on the size of the computer being run and the length of time it is being used. Prices vary based on the scale of the job, with current rates available in [AWS's documentation, linked here](https://aws.amazon.com/ec2/pricing/on-demand/)
+Compute in the cloud is billed on the size of the computer being run and the length of time it is being used. Prices vary based on the scale of the job, with current rates available in [AWS's documentation, linked here](https://aws.amazon.com/ec2/pricing/on-demand/)
 
+---
+### Managing Billing Groups on CAVATICA
+Work in CAVATICA is organized around the concept of _projects_. Each project contains the files, workflows, and output that a set of collaborators have access to. Each project is also assigned to a ___billing group___. Any costs associated with storage or compute in that project are billed to the assigned billing group. Each project may only have one billing group, but a billing group can support multiple projects. For example, two users in the same research group could each have their own private workspace as well as a third, shared space for comparison, all under the single billing group.
+
+Awarded cloud credits will be provided to you through a billing group established by the Kids First DRC. This billing group will have a limit at the amount you are awarded. Once that limit is reached, no further analyses can be submitted.
+
+Users can review costs in the billing group by selecting `Payments` under the drop-down menu in the top right of the screen. New users can also be added to the billing group under this same menu - for example, a new collaborator joining a project.
+
+Detailed directions for managing billing groups on CAVATICA are available in [here within CAVATICA's support center](https://docs.cavatica.org/docs/manage-billing-groups).
+
+---
 ### Cost-Saving Strategies
-- Spot Instances
-- Memoization
-- Cold Storage
+- Reduce storage costs by **archiving files** that you are not actively using. Select the files you wish to archive in the project and choose `Archive` under `More actions...`. Full details are included in [CAVATICA's support center](https://docs.sevenbridges.com/docs/file-archiving-overview).
+- Use **spot instances** while running workflows. Using spot instances may require a waiting for resources to come available in the cloud, but the computational cost will be much reduced. Learn more about spot instances [**here**](http://docs.cavatica.org/docs/about-spot-instances).
+Choose to run spot instances under the `Execution Settings` tab as you select the inputs for your task.
+- Use the **suspend time** feature in the Data Cruncher. If you leave your analysis running, it will accrue costs, even if you aren't actively using it. This is analogous to leaving the lights on in a room with no one in it. Choose `Suspend Time` in the Compute Requirements. If your analysis is inactive for the length of time you set, it will automatically save everything and shut down.
 
+---
 ### Further Reading on Cloud Costs
-- SBG Docs
+For further details on cloud infrastructure pricing, please see [this documentation in CAVATICA's support center](https://docs.cavatica.org/docs/cloud-infrastructure-pricing).
