@@ -31,6 +31,9 @@ Awarded cloud credits will be provided to you through a billing group establishe
 
 Users can review costs in the billing group by selecting `Payments` under the drop-down menu in the top right of the screen. New users can also be added to the billing group under this same menu - for example, a new collaborator joining a project.
 
+<img src="https://github.com/kids-first/kf-cloud-credits/blob/main/assets/payments.png" width="400" align="center">
+
+
 Detailed directions for managing billing groups on CAVATICA are available in [here within CAVATICA's support center](https://docs.cavatica.org/docs/manage-billing-groups).
 
 ---
