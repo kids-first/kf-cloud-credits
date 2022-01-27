@@ -14,7 +14,7 @@
 | [Applying for Cloud Credits](applying.md) | <ul><li>Call for Applications</li><li>Application Requirements</li><li>Application Questions</li></ul> |
 | [Managing Cloud Computing Costs](managingcosts.md) | <ul><li>Managing Billing Groups on CAVATICA</li><li>Cost-Saving Strategies</li><li>Further Reading on Cloud Costs</li></ul> |
 | Workflows - Existing, repurposing and New | [Using an App, Bringing your own, Repurposing and documenting experiments] ()|
-| Analyses - Literate Programming with Jupyter Notebooks | [GitHub for documentation, capturing and recreating]() |
+| Analyses - Literate Programming with Jupyter Notebooks | Use on demand instances for ; back up notebooks in Github, etc. |
 | [Closing Out Your Cloud Credits Project](closeout.md) | <ul><li>Wrapping Things Up</li><li>Writing Your Paper</li><li>Github and Reproducibility</li></ul> |
 
 ___About the Gabriella Miller Kids First Data Resource Center (Kids First DRC):___ 
