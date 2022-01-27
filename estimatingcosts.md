@@ -24,9 +24,25 @@ ___Compute___ refers to using workflows to run computation on files. Within the 
 Compute in the cloud is billed on the size of the computer being run and the length of time it is being used. Prices vary based on the scale of the job, with current rates available in [AWS's documentation, linked here](https://aws.amazon.com/ec2/pricing/on-demand/)
 
 ---
+### Estimating Analyses
+
+Lets begin with a rule of thumb example, which is helpful in getting a feel for analyses.   
+
+Focusing on the major processes to run and a large enough machine, one can obtain a basic rule of thumb that could be used to estimate costs.  Choosing a single large-sized machine, such as a 16 vCPU (virtual CPU) machine with approximately 60 GB of RAM, we can see the savings between using a dedicated or an on-demand instance verusus a Spot instance.
+
+
+**`Rule of Thumb Cost Estimator`**
+
+| **Instance Type** | **Cost per Sample** | **1** | **10** | **100** | **1,000** | **10,000** | **100,000** | 
+| ------------------- | --------------------- | ------- | -------- | --------- | ---------- | ----------- | ------------ |
+| AWS 16 vCPU 60 GB On-Demand |  0.8956 dollars per hour | $ 0.90 | $ 9 | $90 | $ 896 | $8,956 | $ 89,560 | 
+| AWS 16 vCPU 60 GB Spot      |  0.1614 dollars per hour | $ 0.16 | $ 2 | $16 | $ 161 | $1,614 | $ 16,140 |
+
+
+
+
+---
 ### Choosing Workflows
 Words Words Words
 
----
-### Estimating Analyses
-Words Words Words
+
