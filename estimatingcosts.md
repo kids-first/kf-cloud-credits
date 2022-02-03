@@ -19,6 +19,13 @@ All other files in CAVATICA projects incur storage costs. These include files th
 
 Storing files in the cloud is billed on the size of the files and the length of time they are stored. Prices fluctuate, but are generally around 2 cents per gigabyte per month. The most current rate is availabe in [AWS's documentation, linked here](https://aws.amazon.com/s3/pricing/).
 
+
+```
+Important: Researchers who upload their own data for a combined analysis 
+will incur storage costs associated with housing these files in the cloud. 
+This storage is billed at the rates described above.
+```
+
 ___Compute___ refers to using workflows to run computation on files. Within the CAVATICA environment, this could be running a Task of an App in order to process genome files to call variants. It could also refer to using the Interactive Analysis, such as the Data Cruncher to run R scripts and generate graphical output. 
 
 Compute in the cloud is billed on the size of the computer being run and the length of time it is being used. Prices vary based on the scale of the job, with current rates available in [AWS's documentation, linked here](https://aws.amazon.com/ec2/pricing/on-demand/)
@@ -26,13 +33,22 @@ Compute in the cloud is billed on the size of the computer being run and the len
 ---
 ### Estimating Analyses
 
-- Using Existing Workflows (Kids First DRC's GATK)
-- Bring Your Own Workflows
+___Using Existing Kids First DRC Workflows___
+
+If you are looking to harmonize your existing data with Kids First Datasets, you may be interested in running one of the Kids First DRC's bioinformatic pipelines we use for our harmonized data.
+| Pipeline | Input | Workflow | Cost |
+| ----------- | ----------- | ----------- | ----------- | 
+| [**Kids First DRC Alignment and GATK HaplotypeCaller Workflows**](https://github.com/kids-first/kf-alignment-workflow) | 120 GB WGS BAM | _Realignment with AggMetrics, WgsMetrics, and gVCF creation_ |  $35 |
+| [**Kids First DRC Joint Genotyping Workflow**](https://github.com/kids-first/kf-alignment-workflow) | Single 5GB gVCF | _VCF Creation_ | $2.25 |
+| [**Kids First DRC Joint Genotyping Workflow**](https://github.com/kids-first/kf-alignment-workflow) | Trio of 6GB gVCFs | _VCF Creation_ | $3.25 |
+| [**Kids First DRC Somatic Variant Workflow**](https://github.com/kids-first/kf-somatic-workflow) |  Paired Tumor Normal CRAM Alignments | _4 SNV callers, consensus calling, annotation, CNVs, and SVs_  | $25 |
+| [**Kids First RNA-Seq Workflow**](https://github.com/kids-first/kf-rnaseq-workflow) | Single-end FASTQ Input | _Alignment, Gene Expression Quantification, Gene Fusion ID_ | $5 |
+
+___Bringing Your Own Workflows___
 
 Lets begin with a rule of thumb example, which is helpful in getting a feel for analyses.   
 
 Focusing on the major processes to run and a large enough machine, one can obtain a basic rule of thumb that could be used to estimate costs.  Choosing a single large-sized machine, such as a 16 vCPU (virtual CPU) machine with approximately 60 GB of RAM, we can see the savings between using a dedicated or an on-demand instance verusus a Spot instance.
-
 
 **`Rule of Thumb Cost Estimator`**
 
