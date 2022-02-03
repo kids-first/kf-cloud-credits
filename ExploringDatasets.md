@@ -6,13 +6,12 @@ The harmonized clinical and genomic datasets are available to access through the
 
 ---
 ### Logging into the Kids First Data Resource Portal
-Users can login to the Kids First Data Portal in several ways:
+Users can log in to the Kids First Data Portal using either...
 
-1.  Using the NIH Research Authentication Server to log in with an eRA Commons ID.
+1. The NIH Research Authentication Server to log in with an eRA Commons ID
+2. An ORCID Login
+3. Any Google-autneticated email address, such as a Gmail account
 <img src="https://github.com/kids-first/kf-cloud-credits/blob/main/assets/LoginResearchAuthService.gif" width="800" align="center">
-2.  Using their ORCID Login
-<img src="" width="800" align="center">
-3.  Logging in with any Google-authenticated email address, such as a Gmail account.
 
 ---
 ### Exploring Data on the Kids First Portal
@@ -46,6 +45,8 @@ While users are able to browse all available in the Kids First Portal, they may 
 | [Joint-Genotyping Workflow](https://github.com/kids-first/kf-jointgenotyping-workflow) | -- | `Trio-Based Joint-Called Germline Variants` |
 | [Somatic Workflow](https://github.com/kids-first/kf-somatic-workflow) | `Annotated SNVs with Predicted Germline Variants Removed`; `Copy Number Variants`; `Structural Variants` | `Annotated SNVs with Predicted Germline Variants Flagged` |
 | [RNA-Seq Workflow](https://github.com/kids-first/kf-rnaseq-workflow) | `Quantified Gene Expression`; `Called Gene Fusions` | `Aligned Reads`; `Unaligned Reads` |
+
+Both levels of access require users to accept [the Kids First DRC Disclaimers, Terms & Conditions, and Privacy Policy](https://kidsfirstdrc.org/policies/), as they agreed to follow upon creating their Kids First Portal account.
 
 Requesting dbGaP access requires a proposal submission. dbGaP has their own tutorial video to support users in the submission process.
 
