@@ -3,7 +3,7 @@
 ### Call for Applications
 The Kids First Program invites... (NIH Language Goes Here)...
 ### Application Requirements
-- All researchers working with Kids First datasets are eligible to apply for cloud credits to use on CAVATICA, Kids First's cloud-based analysis platform built by Seven Bridges Genomics. Awards will be given through access to a funded billing group on the CAVATICA platform which can be spent on computation and storage costs incurred.
+- All researchers working with Kids First datasets are eligible to apply for cloud credits to use on CAVATICA, Kids First's cloud-based analysis platform built by Seven Bridges Genomics. Funds will be allocated through access to a billing group on the CAVATICA platform which can be spent on computation and storage costs incurred.
 - Users may request up to $10,000 to support research projects on Kids First data and up to $20,000 to support the development of tools and workflows.
 - Other guidelines go here... 
 ### Application Questions
