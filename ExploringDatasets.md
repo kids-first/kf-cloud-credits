@@ -48,7 +48,9 @@ While users are able to browse all available in the Kids First Portal, they may 
 
 Both levels of access require users to accept [the Kids First DRC Disclaimers, Terms & Conditions, and Privacy Policy](https://kidsfirstdrc.org/policies/), as they agreed to follow upon creating their Kids First Portal account.
 
-Requesting dbGaP access requires a proposal submission. dbGaP has their own tutorial video to support users in the submission process.
+Requesting dbGaP access requires a proposal submission. dbGaP has provided their own documentation with tips for preparing a successful request, as well as their own tutorial video to support users in the submission process.
+
+[dbGaP - Tips for Preparing a Successful Data Access Request](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=GeneralAAInstructions.pdf)
 
 [![dbGaP: Apply for Controlled Access Data](https://img.youtube.com/vi/m0xp_cCO7kA/0.jpg)](https://www.youtube.com/watch?v=m0xp_cCO7kA)
 
