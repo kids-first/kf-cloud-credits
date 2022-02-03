@@ -5,7 +5,7 @@ _Note: For an introduction to the principles of cloud computing, cost estimation
 ### Managing Billing Groups on CAVATICA
 Work in CAVATICA is organized around the concept of _projects_. Each project contains the files, workflows, and output that a set of collaborators have access to. Each project is also assigned to a ___billing group___. Any costs associated with storage or compute in that project are billed to the assigned billing group. Each project may only have one billing group, but a billing group can support multiple projects. For example, two users in the same research group could each have their own private workspace as well as a third, shared space for comparison, all under the single billing group.
 
-Awarded cloud credits will be provided to you through a billing group established by the Kids First DRC. This billing group will have a limit at the amount you are awarded. Once that limit is reached, no further analyses can be submitted.
+Allocated cloud credits will be provided to you through a billing group established by the Kids First DRC. This billing group will have a limit at the amount you are allocated. Once that limit is reached, no further analyses can be submitted.
 
 Users can review costs in the billing group by selecting `Payments` under the drop-down menu in the top right of the screen. New users can also be added to the billing group under this same menu - for example, a new collaborator joining a project.
 
