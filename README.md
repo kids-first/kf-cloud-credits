@@ -7,7 +7,7 @@
 | Topic and Link    | Description |
 | :------------- | :--------------------------------------------------------------------------- |
 | [Introduction to Kids First and the Kids First Data Resource Center](introduction.md) | <ul><li>Overview of the KF Program</li><li>Why Choose Cloud-Based Analysis?</li><li>Kids First DRC Harmonized Datasets</li><li>Presentation: Introduction to Kids First Resources</li></ul>
-| [Exploring Datasets](ExploringDatasets.md) | <ul><li>Logging into the Kids First Data Resource Portal</li><li>Exploring Data on the Kids First Portal</li><li>Exploring Studies on the Kids First Portal</li><li>Studies and Access</li><li>Open- and Controlled-Access Datasets</li></ul> |
+| [Exploring and Accessing Datasets](ExploringDatasets.md) | <ul><li>Logging into the Kids First Data Resource Portal</li><li>Exploring Data on the Kids First Portal</li><li>Exploring Studies on the Kids First Portal</li><li>Studies and Access</li><li>Registration- and Controlled-Access Datasets</li></ul> |
 | [Estimating Cloud Computing Costs](estimatingcosts.md) | <ul><li>Principles of Cloud Computing Costs</li><li>Storage and Compute</li><li>Choosing Workflows</li><li>Estimating Analyses<ul><li>Using Existing Kids First DRC Workflows</li><li>Bringing Your Own Workflows</li></ul></li></ul> |
 | [Applying for Cloud Credits](applying.md) | <ul><li>Call for Applications</li><li>Application Requirements</li><li>Application Questions</li></ul> |
 | [Managing Cloud Computing Costs](managingcosts.md) | <ul><li>Managing Billing Groups on CAVATICA</li><li>Cost-Saving Strategies</li><li>Further Reading on Cloud Costs</li></ul> |
