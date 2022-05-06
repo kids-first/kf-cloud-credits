@@ -43,11 +43,6 @@ Users can also bring their own workflows into the cloud to analyze Kids First da
 
 Computation costs in the cloud are a direct function of how long the user is running the computer, billed in dollars per hour. The long it takes the computer to run the assigned task depends on two factors. The nature of the task is of course important, with larger requests taking more time – aligning a genome will take longer than simply generating an index file. Additionally, the size of the input will also influence how long the task takes to complete – a 90 GB genome file will process quicker than a 120 GB genome file.
 
-As such, it is difficult to predict an exact cost of a workflow before it has been run. We encourage you to develop a workflow and test your pipeline on a small number of samples to build an estimate before scaling to a complete analysis with a larger sample size. Example estimates for two of standard AWS Instance types are shown in the table below. 
+As such, it is difficult to predict an exact cost of a workflow before it has been run. We encourage you to develop a workflow and test your pipeline on a small number of samples to build an estimate before scaling to a complete analysis with a larger sample size.
 
-**`Rule of Thumb Cost Estimator`**
-
-| **Instance Type** | **Cost per Sample** | **1** | **10** | **100** | **1,000** | **10,000** | **100,000** | 
-| ------------------- | --------------------- | ------- | -------- | --------- | ---------- | ----------- | ------------ |
-| AWS 16 vCPU 60 GB On-Demand |  0.8956 dollars per hour | $ 0.90 | $ 9 | $90 | $ 896 | $8,956 | $ 89,560 | 
-| AWS 16 vCPU 60 GB Spot      |  0.1614 dollars per hour | $ 0.16 | $ 2 | $16 | $ 161 | $1,614 | $ 16,140 |
+The DRC has produced a [__Cloud Cost Estimator__](https://docs.google.com/spreadsheets/d/1_z6JxJxxbZj0qQ2-i6In2XntLkNDLiNB/edit?usp=sharing&ouid=114381528003679826426&rtpof=true&sd=true), a spreadsheet calculator that can predict cloud costs for benchmarked workflows. For computational costs, select AWS Instance from the drop down menu, the average length of time the workflow runs for, and the number of times the workflow needs to be run. For storage costs, enter an estimate for the size of each type of output as well as the number of files that will be produced. 
