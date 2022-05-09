@@ -1,6 +1,6 @@
 # Kids First Cloud Credit Program
 ## Introduction to Kids First and the Kids First Data Resource Center
-### Overview of the KF Program
+### Overview of the Kids First Program
 The [NIH Common Fund](https://commonfund.nih.gov/) is a funding entity within the NIH that supports bold scientific programs that catalyze discovery across all biomedical and behavioral research. These programs create a space where investigators and multiple NIH Institutes and Centers collaborate on innovative research expected to address high priority challenges for the NIH as a whole and make a broader impact in the scientific community.
 
 The [Gabriella Miller Kids First Pediatric Research Program (Kids First)](https://commonfund.nih.gov/kidsfirst) is a trans-NIH Common Fund program whose goal is to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. 
