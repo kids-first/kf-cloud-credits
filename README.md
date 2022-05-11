@@ -12,7 +12,7 @@
 | [Applying for Cloud Credits](applying.md) | <ul><li>Call for Applications</li><li>Application Requirements</li><li>Application Questions</li></ul> |
 | [Managing Cloud Computing Costs](managingcosts.md) | <ul><li>Managing Billing Groups on CAVATICA</li><li>Cost-Saving Strategies</li><li>Further Reading on Cloud Costs</li></ul> |
 | Using CAVATICA - Seven Bridges Tutorials | <ul><li>[CAVAICA Introduction and Quickstart](https://docs.cavatica.org/docs/quickstart)</li><li>[Bring Your Own Tools to CAVATICA](https://docs.cavatica.org/docs/bring-your-own-tools-to-cavatica-1)</li><li>[Maintaining and Versioning CWL on External Tool Repositories](https://docs.cavatica.org/docs/maintaining-and-versioning-cwl-on-external-tool-repositories)</li><li>[CAVATICA API Overview](https://docs.cavatica.org/docs/the-api)</li></ul> |
-| [Closing Out Your Cloud Credits Project](closeout.md) | <ul><li>Wrapping Things Up</li><li>Writing Your Paper</li><li>Reproducibility in the Cloud</li></ul> |
+| [Closing Out Your Cloud Credits Project](closeout.md) | <ul><li>Wrapping Things Up</li><li>Reproducibility in the Cloud</li></ul> |
 
 ___About the Gabriella Miller Kids First Data Resource Center (Kids First DRC):___ 
 The Kids First DRC is a collaborative, pediatric research effort with the goal of understanding the genetic causes and links between childhood cancer and structural birth defects. As part of the NIH Common Fund’s Gabriella Miller Kids First Pediatric Research Program, the Kids First DRC is charged with:
