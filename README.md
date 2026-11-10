@@ -11,7 +11,7 @@
 | [Estimating Cloud Computing Costs](estimatingcosts.md) | <ul><li>Principles of Cloud Computing Costs</li><li>Storage and Compute</li><li>Choosing Workflows</li><li>Estimating Analyses<ul><li>Using Existing Kids First DRC Workflows</li><li>Bringing Your Own Workflows</li><li>[Cloud Cost Estimator](https://docs.google.com/spreadsheets/d/1_z6JxJxxbZj0qQ2-i6In2XntLkNDLiNB/edit?usp=sharing&ouid=114381528003679826426&rtpof=true&sd=true)</li></ul></li></ul> |
 | [Applying for Cloud Credits](applying.md) | <ul><li>Call for Applications</li></ul> |
 | [Managing Cloud Computing Costs](managingcosts.md) | <ul><li>Managing Billing Groups on CAVATICA</li><li>Cost-Saving Strategies</li><li>Further Reading on Cloud Costs</li></ul> |
-| Using CAVATICA - Seven Bridges Tutorials | <ul><li>[CAVAICA Introduction and Quickstart](https://docs.cavatica.org/docs/quickstart)</li><li>[Bring Your Own Tools to CAVATICA](https://docs.cavatica.org/docs/bring-your-own-tools-to-cavatica-1)</li><li>[Maintaining and Versioning CWL on External Tool Repositories](https://docs.cavatica.org/docs/maintaining-and-versioning-cwl-on-external-tool-repositories)</li><li>[CAVATICA API Overview](https://docs.cavatica.org/docs/the-api)</li></ul> |
+| Using CAVATICA - Velsera Tutorials | <ul><li>[CAVATICA Introduction and Quickstart](https://docs.cavatica.org/docs/quickstart)</li><li>[Bring Your Own Tools to CAVATICA](https://docs.cavatica.org/docs/bring-your-own-tools-to-cavatica-1)</li><li>[Maintaining and Versioning CWL on External Tool Repositories](https://docs.cavatica.org/docs/maintaining-and-versioning-cwl-on-external-tool-repositories)</li><li>[CAVATICA API Overview](https://docs.cavatica.org/docs/the-api)</li></ul> |
 | [Closing Out Your Cloud Credits Project](closeout.md) | <ul><li>Wrapping Things Up</li><li>Reproducibility in the Cloud</li></ul> |
 
 ___About the Gabriella Miller Kids First Data Resource Center (Kids First DRC):___ 
@@ -21,7 +21,7 @@ The Kids First DRC is a collaborative, pediatric research effort with the goal o
 - Enabling rapid translation to personalized treatments for patients diagnosed with childhood cancer or structural birth defects.
 - Accelerating discovery of genetic causes and shared biologic pathways within and across these conditions.
 
-For more information, visit https://www.kidsfirstdrc.org.
+For more information, visit https://www.kidsfirstdrc.org or read our [2026 *Perspectives* manuscript in AJHG](https://www.cell.com/ajhg/fulltext/S0002-9297(26)00276-4).
 
 ___About the Kids First Working Group:___ The Gabriella Miller Kids First Pediatric Research Program was initiated in response to the 2014 Gabriella Miller Kids First Research Act. The program is overseen by the Kids First Working Group and Leadership Team with input from external scientific advisors. The four institutes that lead the Kids First Working Group are:
 <ul>
