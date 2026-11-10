@@ -1,15 +1,15 @@
 # Kids First Cloud Credit Program
 ## Applying for Kids First Cloud Credits
-### [Call for Applications](https://commonfund.nih.gov/sites/default/files/Cloud-Credits-Pilot-%233-Announcement-final-508.pdf)
+The Kids First Cloud Credits pilot program provides NIH-supported cloud credits to help researchers store and analyze Kids First data on CAVATICA. Applications are accepted on a rolling basis.
+## How to Apply
+Visit the [Kids First DRC grants page](https://kidsfirstdrc.org/grants/) and select **Apply Today** under Access Kids First Cloud Credits to complete the application form.
 
-If you would like to participate in the Kids First 2022 Cloud Credits Pilot program, please send an email to ___KidsFirst@od.nih.gov___ with "__Kids First 2022 Cloud Credits Pilot__” in the subject line, and the Working Group will follow up with additional information.
+Be prepared to share:
+- Which Kids First dataset(s) you’d like to analyze
+- Whether you plan to combine Kids First data with other data sources
+- What analyses you intend to conduct on CAVATICA
+- Whether you’ve previously participated in the cloud credits program as an X01 or R03 investigator and are requesting an additional allocation
 
-In your email, please describe:
-<ul>
-     <li>Which Kids First datasets you are interested in analyzing and whether you plan to cross-analyze Kids First data with other data.</li>
-     <li>Whether you have previously participated in earlier Kids First cloud credit pilots, either as an X01 or R03 investigator.</li>
-          <ul><li>In that case, please indicate whether this is a request for an additional allocation.</li></ul>
-     <li>What analyses you intend to do on the CAVATICA platform.</li>
-</ul>
+**Note:** Accessing controlled-access data: dbGaP approval is required to use controlled-access Kids First data. Requesting data access requires a separate proposal and submission from your cloud credits application.
 
-For further details, refer to NIH's [Kids First Cloud Credits Pilot #3 Announcement](https://commonfund.nih.gov/sites/default/files/Cloud-Credits-Pilot-%233-Announcement-final-508.pdf).
+For current program information and the application form, visit the [Kids First DRC grants page](https://kidsfirstdrc.org/grants/).

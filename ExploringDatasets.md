@@ -54,6 +54,6 @@ Requesting dbGaP access for controlled-access files requires a proposal submissi
 
 [dbGaP - Tips for Preparing a Successful Data Access Request](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?document_name=GeneralAAInstructions.pdf)
 
-[![dbGaP: Apply for Controlled Access Data](https://img.youtube.com/vi/m0xp_cCO7kA/0.jpg)](https://www.youtube.com/watch?v=m0xp_cCO7kA)
+[dbGaP: Apply for Controlled Access Data](https://www.youtube.com/watch?v=m0xp_cCO7kA)
 
 This submission can also help prepare users for applying for computational cloud credits to analyze these data on the Kids First DRC's cloud-based analysis platform [CAVATICA](https://cavatica.sbgenomics.com/). The platform allows users to run analyses with either existing applications or by developing one's own workflows and performing interactive analyses with Jupyter notebooks, achieved through the application Data Cruncher.
